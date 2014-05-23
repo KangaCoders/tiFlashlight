@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+
+# these should not be edited
+name: tiflashlight
+moduleid: com.kangacoders.tiflashlight
+guid: 79dc6561-4179-447d-9b97-97b8fb4ee968
+platform: android
+minsdk: 3.2.2.GA
